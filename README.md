@@ -17,7 +17,7 @@
   - [7.2. Setting configurations](#72-setting-configurations)
     - [7.2.1. Preffix](#721-preffix)
     - [7.2.2. Suffix](#722-suffix)
-    - [7.2.3. Number types](#723-number-types)
+    - [7.2.3. 3 Numbers types](#723-3-numbers-types)
       - [7.2.3.1. Sequential](#7231-sequential)
       - [7.2.3.2. Random](#7232-random)
       - [7.2.3.3. Date and time](#7233-date-and-time)
@@ -37,7 +37,7 @@
    Automatically generates model numbers for new products and exists products.
 
 # 2. Resources
-+ [3 number types](#723-number-types)
++ [3 numbers types](#723-3-numbers-types)
    - [Sequential](#7231-sequential)
    - [Random](#7232-random)
    - [Date and time](#7233-date-and-time)
