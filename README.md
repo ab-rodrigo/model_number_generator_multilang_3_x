@@ -37,14 +37,14 @@
    Automatically generates model numbers for new products and exists products.
 
 # 2. Resources
-+ [3 types of numbering](#723-tipos-de-numeração)
++ [3 types of numbering](#723-numbering-types)
    - [Sequential](#7231-sequential)
-   - [Random](#7232-aleatório)
-   - [Date and time](#7233-data-e-hora)
+   - [Random](#7232-random)
+   - [Date and time](#7233-date-and-time)
 + [Preffix](#721-preffix)
 + [Suffix](#722-suffix)
-+ [Autocomplete](#725-autocompletar)
-+ [Blocks duplicate models](#726-bloquear-duplicados)
++ [Autocomplete](#726-autocomplete)
++ [Blocks duplicate models](#727-block-duplicates)
 + Multi-language
    - English (en-gb)
    - Portuguese (pt-br)
