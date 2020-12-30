@@ -66,65 +66,38 @@
 No **_Painel de controle_**:
 1. Vá em **_Extensões > Instalador_**;
 2. No campo **_Arquivo_** clique em **_Enviar_**.
-
-<figure>
-   <img src="images/img_pt_br_1.png" width="600" alt="Imagem 1" title="Imagem 1">
-   <figcaption>Imagem 1</figcaption>
-</figure>
+<p align="center"><img src="images/img_pt_br_1.png" width="600" alt="Imagem 1" title="Imagem 1"></p>
 
 Na caixa de diálogo **_Abrir_**, localize o arquivo **model_number_generator_multilang_3.x.ocmod.zip**, selecione-o e clique em **_Abrir_**, ou clique duas vezes sobre o nome arquivo para abrir. 
-<figure>
-   <img src="images/img_pt_br_2.png" width="600" alt="Imagem 2" title="Imagem 2">
-   <figcaption>Imagem 2</figcaption>
-</figure>
+<p align="center"><img src="images/img_pt_br_2.png" width="600" alt="Imagem 2" title="Imagem 2"></p>
 
 Por favor, aguarde o final da instalação. Ao finalizar, o módulo será listado na tabela **_Extensões instaladas_**.
-<figure>
-   <img src="images/img_pt_br_3.png" width="600" alt="Imagem 3" title="Imagem 3">
-   <figcaption>Imagem 3</figcaption>
-</figure>
+<p align="center"><img src="images/img_pt_br_3.png" width="600" alt="Imagem 3" title="Imagem 3"></p>
 
 ## 4.2. Habilitando e atualizando as modificações
 No **_Painel de controle_**:
    1. Vá em **_Extensões > Modificações_**.
    2. Verifique se o módulo está **_Habilitado_**.
-
-<figure>
-   <img src="images/img_pt_br_4.png" width="600" alt="Imagem 4" title="Imagem 5">
-   <figcaption>Imagem 4</figcaption>
-</figure>
-
+<p align="center"><img src="images/img_pt_br_4.png" width="600" alt="Imagem 4" title="Imagem 4"></p>
 
 ### 4.2.1. Ativar as modificações do módulo
 Caso o módulo esteja **_Desabilitado_**, clique em **_Ativar_** no canto direito da tela.
-<figure>
-   <img src="images/img_pt_br_5.png" width="600" alt="Imagem 5" title="Imagem 5">
-   <figcaption>Imagem 5</figcaption>
-</figure>
+<p align="center"><img src="images/img_pt_br_5.png" width="600" alt="Imagem 5" title="Imagem 5"></p>
 
 ### 4.2.2. Atualizar o cache de modificações
 Após [Ativar as modificações do módulo](#421-ativar-as-modificações-do-módulo), é necessário atualizar o cache de modificações clicando em **_Atualizar_**. 
-<figure>
-   <img src="images/img_pt_br_6.png" width="600" alt="Imagem 6" title="Imagem 6">
-   <figcaption>Imagem 6</figcaption>
-</figure>
+<p align="center"><img src="images/img_pt_br_6.png" width="600" alt="Imagem 6" title="Imagem 6"></p>
 
 # 5. Permissão de acesso e modificação do módulo
 No **_Painel de controle_**:
   1. Vá em **Configurações > Gerenciar usuários > Grupos de usuários**;
   2. Localize a linha do grupo que será editado(no exemplo o grupo *Administrator*);
   3. Clique em **Editar** no final da linha.
-<figure>
-   <img src="images/img_pt_br_7.png" width="600" alt="Imagem 7" title="Imagem 7">
-   <figcaption>Imagem 7</figcaption>
-</figure>
+<p align="center"><img src="images/img_pt_br_7.png" width="600" alt="Imagem 7" title="Imagem 7"></p>
 
 1. Em **_Permissões de acesso_** e **_Permissões de modificações_**, localize e marque a caixa de seleção nas linhas **_extension/module/model_number_generator_multilang_**.
 2. Clique em **_Salvar_**.
-<figure>
-   <img src="images/img_pt_br_8.png" width="600" alt="Imagem 8" title="Imagem 8">
-   <figcaption>Imagem 8</figcaption>
-</figure>
+<p align="center"><img src="images/img_pt_br_8.png" width="600" alt="Imagem 8" title="Imagem 8"></p>
 
 # 6. Habilitando o módulo
 No **_Painel de controle_**.
@@ -132,29 +105,21 @@ No **_Painel de controle_**.
   2. Em **_Selecione o tipo de extensão_**, selecione **_Módulos_**.
   3. Localize a linha do módulo - **_Generate Model Number Multilang_**.
   4. Clique em **_Instalar_** no final da linha.
-<figure>
-   <img src="images/img_pt_br_9.png" width="600" alt="Imagem 9" title="Imagem 9">
-   <figcaption>Imagem 9</figcaption>
-</figure>
+<p align="center"><img src="images/img_pt_br_9.png" width="600" alt="Imagem 9" title="Imagem 9"></p>
 
 # 7. Configuração
+
 ## 7.1. Acessando as configurações
 No **_Painel de controle_**:
   1. Vá em **_Extensões > Extensões_**.
   2. Em **_Selecione o tipo de extensão_**, selecione **_Módulos_**.
   3. Localize a linha do módulo - **_Generate Model Number Multilang_**.
   4. Clique em **_Editar_** no final da linha.
-<figure>
-   <img src="images/img_pt_br_10.png" width="600" alt="Imagem 10" title="Imagem 10">
-   <figcaption>Imagem 10</figcaption>
-</figure>
+<p align="center"><img src="images/img_pt_br_10.png" width="600" alt="Imagem 10" title="Imagem 10"></p>
 
 ## 7.2. Configurando o módulo
 Após [Acessar as configurações](#71-acessando-as-configurações), será aberto a tela de configuração do módulo.
-<figure>
-   <img src="images/img_pt_br_11.png" width="600" alt="Imagem 11" title="Imagem 11">
-   <figcaption>Imagem 11</figcaption>
-</figure>
+<p align="center"><img src="images/img_pt_br_11.png" width="600" alt="Imagem 11" title="Imagem 11"></p>
 
 ### 7.2.1. Prefixo
 Adiciona um prefixo a **todos** os números gerados pelo módulo.
@@ -192,7 +157,6 @@ Este campo é utilizado apenas para os tipos **_Sequencial_** e **_Aleatório_**
 |:--:|:--:|:--:|
 |3|099|100|
 |3|999|1000|
-||||
 
 <br>
 
@@ -216,11 +180,7 @@ No **_Painel de controle_**:
   1. Vá em **_Catálogo > Produtos_**.
 
 No formulário de inclusão ou edição de produtos, clique no botão **Gerar número de modelo** e num novo número será gerado preenchendo o campo modelo.
-
-<figure>
-   <img src="images/img_pt_br_12.png" width="600" alt="Imagem 12" title="Imagem 12">
-   <figcaption>Imagem 12</figcaption>
-</figure>
+<p align="center"><img src="images/img_pt_br_12.png" width="600" alt="Imagem 12" title="Imagem 12"></p>
 
 # 9. Desinstalação
 Para desinstalação completa do módulo siga os 2 passos abaixo.
@@ -233,22 +193,14 @@ No **_Painel de controle_**:
 1. Vá em **_Extensões > Instalador_**;
 2. Localize a linha do módulo - **_Generate Model Number Multilang_**.
 3. Clique em **_Desinstalar_** no final da linha.
-
-<figure>
-   <img src="images/img_pt_br_13.png" width="600" alt="Imagem 13" title="Imagem 13">
-   <figcaption>Imagem 13</figcaption>
-</figure>
+<p align="center"><img src="images/img_pt_br_13.png" width="600" alt="Imagem 13" title="Imagem 13"></p>
 
 ## 9.2. Passo 2 - Atualizar modificações
 
 No **_Painel de controle_**:
    1. Vá em **_Extensões > Modificações_**.
    2. Clique em **_Atualizar_**.
-
-<figure>
-   <img src="images/img_pt_br_14.png" width="600" alt="Imagem 14" title="Imagem 14">
-   <figcaption>Imagem 14</figcaption>
-</figure>
+<p align="center"><img src="images/img_pt_br_14.png" width="600" alt="Imagem 14" title="Imagem 14"></p>
 
 # 10. Licença
 
