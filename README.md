@@ -37,7 +37,7 @@
    Automatically generates model numbers for new products and exists products.
 
 # 2. Resources
-+ [3 numbers types](#723-3-numbers-types)
++ [3 numbers types](#723-numbers-types)
    - [Sequential](#7231-sequential)
    - [Random](#7232-random)
    - [Date and time](#7233-date-and-time)
