@@ -1,5 +1,5 @@
 ## Model Number Generator Multilanguage - OpenCart v3.x (OCMOD)
-***
+
 #### Tabela de conteúdo
 
 - [1. Visão geral](#1-visão-geral)
