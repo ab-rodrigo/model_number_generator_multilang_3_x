@@ -43,8 +43,8 @@
    - [Data e hora](#7233-data-e-hora)
 + [Prefixo](#721-prefixo)
 + [Sufixo](#722-sufixo)
-+ [Autocompletar](#725-autocompletar)
-+ [Bloqueia modelos duplicados](#726-bloquear-duplicados)
++ [Autocompletar](#726-autocompletar)
++ [Bloqueia modelos duplicados](#727-bloquear-duplicados)
 + Multi-idioma
    - Inglês (en-gb)
    - Português (pt-br)
