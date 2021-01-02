@@ -58,7 +58,7 @@
   - *Dashboard > System > Users > Users Groups*
   - *Dashboard > Catalog > Produtcs*
 
-> After installation, it will be necessary to grant access and modification permission to the module configurations, see the topic [Permissão de acesso e modifição do módulo](#5-permissão-de-acesso-e-modificação-do-módulo)
+> After installation, it will be necessary to grant access and modification permission to the module configurations, see the topic [Permission to access and modify the module settings](#5-permission-to-access-and-modify-the-module-settings)
 
 # 4. Installation
 
