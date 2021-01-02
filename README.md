@@ -83,7 +83,7 @@ In **_Dashboard_**:
 
 
 ### 4.2.1. Activate module modifications
-If the module is **_Disabled_**, click **_Activate_** in the right on the screen.
+If the module is **_Disabled_**, click **_Activate_** on the right of the screen.
 <p align="center"><img src="images/img_en_gb_5.png" width="600" alt="Image 5" title="Image 5"></p>
 
 ### 4.2.2. Update the modification cache
