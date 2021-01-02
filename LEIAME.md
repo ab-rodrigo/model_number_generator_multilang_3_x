@@ -1,5 +1,7 @@
 ## Model Number Generator Multilanguage - OpenCart v3.x (OCMOD)
 
+#### [Link do módulo - página externa](https://www.opencart.com/index.php?route=marketplace/extension/info&member_token=WLqKHdv5dxRfQMg1JBLZdQpIzBEE6ZEP&extension_id=40900)
+
 #### Tabela de conteúdo
 
 - [1. Visão geral](#1-visão-geral)
