@@ -1,6 +1,11 @@
 ## Model Number Generator Multilanguage - OpenCart v3.x (OCMOD)
 
-#### [Link do módulo](https://www.opencart.com/index.php?route=marketplace/extension/info&member_token=WLqKHdv5dxRfQMg1JBLZdQpIzBEE6ZEP&extension_id=40900)
+![Badge](https://img.shields.io/badge/oc%20release-3.x-informational?style=flat&logoColor=white)
+![Badge](https://img.shields.io/badge/ocmod-true-informational?style=flat&logoColor=white)
+![Badge](https://img.shields.io/badge/downloads-200+-informational?style=flat&logoColor=white)
+[![Badge](https://img.shields.io/badge/donate--brightgreen?style=flat&logoColor=white&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=SPQH2B32XBJUW)
+
+#### [Página do módulo](https://www.opencart.com/index.php?route=marketplace/extension/info&member_token=WLqKHdv5dxRfQMg1JBLZdQpIzBEE6ZEP&extension_id=40900)
 
 #### Tabela de conteúdo
 
@@ -211,3 +216,5 @@ GNU General Public License version 3 (GPLv3) - https://www.gnu.org/
 # 11. Contato e suporte
 
 Rodrigo Barbosa - ab.rodrigo@outlook.com
+
+<p align="center"><a href="https://www.paypal.com/donate/?hosted_button_id=SPQH2B32XBJUW"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal button" title="PayPal - The safer, easier way to pay online!"></a></p>
