@@ -2,7 +2,7 @@
 
 ![Badge](https://img.shields.io/badge/oc%20release-3.x-informational?style=flat&logoColor=white)
 ![Badge](https://img.shields.io/badge/ocmod-true-informational?style=flat&logoColor=white)
-![Badge](https://img.shields.io/badge/downloads-200+-informational?style=flat&logoColor=white)
+![Badge](https://img.shields.io/badge/downloads-300+-informational?style=flat&logoColor=white)
 [![Badge](https://img.shields.io/badge/donate--brightgreen?style=flat&logoColor=white&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=SPQH2B32XBJUW)
 
 #### [Página do módulo](https://www.opencart.com/index.php?route=marketplace/extension/info&member_token=WLqKHdv5dxRfQMg1JBLZdQpIzBEE6ZEP&extension_id=40900)
