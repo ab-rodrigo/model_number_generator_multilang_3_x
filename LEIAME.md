@@ -65,9 +65,9 @@
   - *Painel de controle > Sistema > Usuários > Grupos de usuários*
   - *Painel de controle > Catálogo > Produtos*
 
-> Após a instalação, será necessário conceder permissão de acesso e modificação às configurações do módulo, veja o tópico [Permissão de acesso e modifição do módulo](#5-permissão-de-acesso-e-modificação-do-módulo)
-
 # 4. Instalação
+
+> Após a instalação, será necessário conceder permissão de acesso e modificação às configurações do módulo, veja o tópico [Permissão de acesso e modifição do módulo](#5-permissão-de-acesso-e-modificação-do-módulo)
 
 ## 4.1. Instalando o módulo  
 No **_Painel de controle_**:
